@@ -18,27 +18,30 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful user inter
 
 ### 🛠️ Skills & Technologies
 
-**UI/UX Design**
-- Figma
+#### 🎨 UI/UX Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/>
+</p>
 
-**Frontend Development**
-- HTML5
-- CSS3
-- JavaScript
+#### 💻 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend Skills"/>
+</p>
 
-**Backend Development**
-- PHP
-- Laravel
+#### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Skills"/>
+</p>
 
-**Database**
-- MySQL
-- Firebase
+#### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Database Skills"/>
+</p>
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-
+#### 🔧 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+</p>
 ---
 
 ### 📂 My Projects
