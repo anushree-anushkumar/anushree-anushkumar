@@ -43,6 +43,12 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful user inter
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 </p>
 ---
+---
+
+### 📊 GitHub Statistics
+
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=anushree-anushkumar&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=anushree-anushkumar\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="180" alt="GitHub Stats"/>   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=anushree-anushkumar&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=anushree-anushkumar\&layout=compact\&theme=tokyonight\&hide_border=true)" height="180" alt="Top Languages"/> \</p>
+
 
 ### 📂 My Projects
 
